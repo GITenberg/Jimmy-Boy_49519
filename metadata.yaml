@@ -1,4 +1,8 @@
 _repo: Jimmy-Boy_49519
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49519-h/images/cover.jpg
 creator:
   author:
     agent_name: May, Sophie
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3465
     wikipedia: http://en.wikipedia.org/wiki/Rebecca_Sophia_Clarke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49519#Jimmy-Boy
 gutenberg_issued: '2015-07-25'
 gutenberg_type: Text
 identifiers:
